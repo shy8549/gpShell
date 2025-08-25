@@ -1,1 +1,2 @@
-# gpShell
+
+# greenplum相关脚本
