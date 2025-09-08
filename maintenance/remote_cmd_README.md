@@ -47,9 +47,9 @@ bash -n remote_cmd.sh
 
 ```
 # IP                USER        PASSWORD
-10.215.223.32       cdphadoop   Passw0rd!
-10.215.223.33       cdphadoop
-10.215.223.34       root        Root@123
+10.10.223.32       cdphadoop   Passw0rd!
+10.10.223.33       cdphadoop
+10.10.223.34       root        Root@123
 
 ```
 
